@@ -10,7 +10,7 @@ The dataset was downloaded from Kaggle, organized by KUMARRAJARSH to explore on 
  
  There are total of 193 countries, and we have filtered out 11 places that were missing major data. 
 
- [Country_1_year.jpg](https://github.com/vanillatyy1/7_Project_1_part/blob/80a229799078dc80f69ce42895370dab2c11a6f5/Screenshots/Country_1_year.jpg)
+![Country_1_year](https://github.com/vanillatyy1/7_Project_1_part/raw/80a229799078dc80f69ce42895370dab2c11a6f5/Screenshots/Country_1_year.jpg)
  
  ## Data Limitation
 
@@ -19,7 +19,7 @@ Looking into the columns, we noticed missing data of 41 countries, including nat
 
 Nonetheless, even though the dataset provides alcohol consumption data recorded per capita for aged 15+, its scope is limited to the volume of pure alcohol consumed. This restricts the ability to establish meaningful correlations between alcohol consumption and life expectancy. Further research incorporating variables such as the type of alcohol consumed, like red wine, beer, hard liquor, or the context of consumption, like social occasions and cultural practices may yield better insights into this relationship. 
 
-[Data_Limitation_screen.jpg](https://github.com/vanillatyy1/7_Project_1_part/blob/80a229799078dc80f69ce42895370dab2c11a6f5/Screenshots/Data_Limitation_screen.jpg)
+![Data_Limitation_screen](https://github.com/vanillatyy1/7_Project_1_part/raw/80a229799078dc80f69ce42895370dab2c11a6f5/Screenshots/Data_Limitation_screen.jpg)
 
 ## Research Question 1: On average, do people in developed or developing countries live longer?
 
@@ -50,6 +50,6 @@ While developed nations like Japan and Sweden boast life expectancies surpassing
 This drastic contrast underscores the profound disproportion in healthcare access and quality between developed and developing nations. 
 
 ## External factors: Developed v.s. Developing Countries
-[PESTEL_Full.jpg](https://github.com/vanillatyy1/7_Project_1_part/blob/80a229799078dc80f69ce42895370dab2c11a6f5/Screenshots/PESTEL_Full.jpg)
+![PESTEL_Full](https://github.com/vanillatyy1/7_Project_1_part/raw/80a229799078dc80f69ce42895370dab2c11a6f5/Screenshots/PESTEL_Full.jpg)
 
 
