@@ -24,7 +24,7 @@ Developed nations: 77 to 80 years
 Developing nations: 65 to 70 years 
 We also note a positive trend of increasing life expectancy over the years in both Developed and developing countries. 
 
-## Top 5 v.s. Bottom 5
+### Top 5 v.s. Bottom 5
 
 In fact, the top five and bottom five countries in terms of average life expectancies reveals a sharp contrast of nearly forty years. 
 While developed nations like Japan and Sweden boast life expectancies surpassing eighty-two years, the bottom five countries, all of which are developing nations, see life expectancies plummet to as low as 46 - 49 years.
